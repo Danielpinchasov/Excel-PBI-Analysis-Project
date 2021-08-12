@@ -14,3 +14,4 @@ The project is done using the following actions:
 7. Open the Power Bi and import data from Power Query in Excel, Then go to Model tab and hide columns and tables that unnecessary for the report. (we also created folders to arrange our measures).
 8. Creating more advanced MEASURES and KPI to perfrorm high level analysis reports.
 9. Creating another 3 reports in PBI by using our MEASURES, KPI and PBI Visualizations. (we created tooltips also). 
+10. Creating a presentation in PowerPoint where we write down the steps in project execution, assumptions taken and key analyzes and conclusions we have drawn from the process.
